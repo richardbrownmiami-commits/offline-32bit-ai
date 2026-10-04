@@ -1,0 +1,6 @@
+{
+  "name": "Offline 32bit AI",
+  "description": "Offline LLM GGUF loader and chat for 32-bit ARMv7a Android 11 devices",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
